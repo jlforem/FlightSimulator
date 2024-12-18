@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote Flight Controller", "Remote Flight Controller.csproj", "{15FD4626-633A-4DF8-86A5-74FEA8B14EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FD4626-633A-4DF8-86A5-74FEA8B14EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FD4626-633A-4DF8-86A5-74FEA8B14EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FD4626-633A-4DF8-86A5-74FEA8B14EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FD4626-633A-4DF8-86A5-74FEA8B14EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D44CB9B1-D5C7-4033-B4CC-0EA74A28369C}
+	EndGlobalSection
+EndGlobal
