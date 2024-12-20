@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Remote Flight Controller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f494f857b563ac78de794939f927cd9a41dd776a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d94d6566905c6906b4bd2b3183081d41812d39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Remote Flight Controller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Remote Flight Controller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
